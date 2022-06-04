@@ -3,3 +3,4 @@
 
 
 > pip install windows-curses
+_and then start typing to show speed and accuracy_
