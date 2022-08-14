@@ -2,9 +2,9 @@
 ### A simple console based program that tests your typing speed and accuracy
 
 
-```
-pip install windows-curses
+```ps
+$ pip install windows-curses
 
-python main.py
+$ python typing.py
 ```
 _and then start typing to show speed and accuracy_
